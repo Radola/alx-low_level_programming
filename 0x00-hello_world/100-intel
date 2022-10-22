@@ -1,0 +1,2 @@
+#!/bin/basn
+gcc -S -masm=intel $CFILE
