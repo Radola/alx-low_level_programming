@@ -4,7 +4,7 @@
 /**
  * main - entry point of the program
  *
- * Return - this returns 0
+ * Return: this returns 0
  */
 int main(void)
 {
