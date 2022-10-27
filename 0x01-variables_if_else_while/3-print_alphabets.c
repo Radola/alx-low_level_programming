@@ -19,5 +19,5 @@ int main(void)
 		putchar(y);
 	}
 	putchar('\n');
-		return(0);
+		return (0);
 }
