@@ -18,7 +18,7 @@ int main(void)
 			putchar(' ');
 
 			putchar('0' + p / 10);
-			putchar('0' + p / 10);
+			putchar('0' + p % 10);
 
 			if (o == 98 && p == 99)
 				break;
