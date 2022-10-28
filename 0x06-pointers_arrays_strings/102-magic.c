@@ -1,9 +1,4 @@
 #include <stdio.h>
-/**
-  * main - entry
-  *
-  * Return: o
-  */
 int main(void)
 {
 	int n;
